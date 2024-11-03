@@ -1,5 +1,7 @@
+python == 3.11.9
 ipython == 8.26.0
 librosa == 0.10.2.post1
+matplotlib == 3.9.1
 noisereduce == 3.0.2
 numpy == 2.0.1
 pandas == 2.2.2
